@@ -2,7 +2,7 @@
 
 My name is Kajetan and I am 21 years old. I am passionate about math and programming.
 
-👨‍🔧 Working with: C#, PL/SQL (Warehouse Management System)
+👨‍🔧 Working with: C#, PL/SQL (Warehouse Control System)
 
 📘 Currently reading: "Clean Code" - Robert C. Martin
 
