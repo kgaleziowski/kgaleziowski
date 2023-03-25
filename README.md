@@ -1,8 +1,8 @@
 ### Hi! 👋
 
-My name is Kajetan and I am 21 years old. I am passionate about math and programming.
+My name is Kajetan and I am 22 years old. I am passionate about math and programming.
 
-📫 You can reach me via GitHub or find me on Facebook.
+📫 You can reach me via GitHub or find me on LinkedIn.
 
 Programming tastes bitter, especially when you are diabetic 😜.
 
